@@ -1,0 +1,16 @@
+C# - Visual Studio, SharpDevelop
+
+Java - Eclipse, NetBeans, IDEA
+
+Objective-C - Xcode
+
+C, C++ - Visual Studio, Vim
+
+PL/SQL - RapidSQL, Oracle SQLDeveloper
+
+PHP - Eclipse, NetBeans, Nusphere PHPed
+
+Python - Eclipse, IDLE
+
+Ruby - TextMate
+
